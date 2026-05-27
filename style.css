@@ -1,0 +1,29 @@
+#EnterBox
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+#ConvertedBox{
+    display: flex;
+    gap: 10px;
+}
+
+#outputval{
+    height: 20px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+*{
+    background-color: antiquewhite; 
+
+    margin-top: 20px;
+}
+
+#SelectCurrency{
+
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
