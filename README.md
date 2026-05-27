@@ -32,7 +32,7 @@ A modern currency conversion web app built using HTML, CSS and JavaScript.
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/project.png" width="500">
+  <img src="image.png" width="500">
 </p>
 
 ---
